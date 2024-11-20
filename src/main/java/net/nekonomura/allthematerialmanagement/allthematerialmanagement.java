@@ -13,6 +13,7 @@ import org.slf4j.Logger;
 @Mod("allthematerialmanagement")
 public class allthematerialmanagement
 {
+    public static final String MOD_ID = "atmm";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
